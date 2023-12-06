@@ -4,3 +4,5 @@
   below a youtube tutorial that simply and effectively demonstrates how to pair the two modules.
   https://www.youtube.com/watch?v=BXXAcFOTnBo&t=157s
   **All credit for the content in the YouTube video above goes to the original creator PatchBOTS**
+- The master file should be uploaded to the transmitter for the car, which in this case uses two joysticks as the control method
+- The slave file should be uploaded to the arduino found in the car
