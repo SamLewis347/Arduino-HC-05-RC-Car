@@ -8,7 +8,7 @@ void setup() {
   myservo.attach(servoPin);  // Attach the servo on pin 9
   esc.attach(escPin);        // Attach the ESC on pin 10
   pinMode(LED_BUILTIN, OUTPUT);
-  Serial.begin(9600);  // Default baud rate for HC-05
+  Serial.begin(9600);  // Beginning serial communications for the HC-05 modules
 }
 bool flash = true;
 void loop() {
